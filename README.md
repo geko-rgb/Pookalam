@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![p5.js](https://img.shields.io/badge/p5.js-1.9.0-orange.svg)](https://p5js.org/)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla-f7df1e.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Competition](https://img.shields.io/badge/Code--a--Pookalam-2025-red.svg)](https://onam-games.pages.dev/code-a-pookalam/submit)
+
 
 > A procedurally generated **Athapookalam** (Onam floral mandala) rendered in 1024×1024 PNG using pure mathematics — no randomness, no external assets, fully reproducible.
 
